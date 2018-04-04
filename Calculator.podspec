@@ -1,10 +1,11 @@
 Pod::Spec.new do |s|
   s.name             = 'Calculator'
-  s.version          = '0.1.0'
-  s.summary          = 'By far the most fantastic view I have seen in my entire life. No joke.'
+  s.version          = '1.0.0'
+  s.swift_version = '4.0.3'
+  s.summary          = 'By far the most fantastic Calculator'
  
   s.description      = <<-DESC
-This fantastic view changes its color gradually makes your app look fantastic!
+Its a calculator application for iOS 
                        DESC
  
   s.homepage         = 'https://github.com/yogeshaherwar/nihilentprojects'
